@@ -5,7 +5,7 @@ The baseline implementation of SSD is adopted from<br>
 SSD: https://github.com/qijiezhao/pytorch-ssd<br>
 
 ## Dataset
-[2017 Robotic Instrument Segmentation Challengehttps](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/) and [paper](https://arxiv.org/pdf/1902.06426.pdf)<br>
+[2017 Robotic Instrument Segmentation Challenge](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/) and [paper](https://arxiv.org/pdf/1902.06426.pdf)<br>
 
 ## Citation
 If you use this code for your research, please cite our paper.
